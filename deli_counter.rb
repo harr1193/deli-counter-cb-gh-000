@@ -7,6 +7,6 @@ def line(customers)
       customers.each_with_index do |name, i|
         line_str << "#{i+1}. #{name} "
       end
-      line_str
+      puts line_str
     end
 end
