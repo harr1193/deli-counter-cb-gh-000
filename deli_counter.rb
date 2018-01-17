@@ -10,3 +10,7 @@ def line(customers)
       puts line_str
     end
 end
+
+def take_a_number(line, name)
+  
+end
